@@ -1,0 +1,497 @@
+{
+  "app": {
+    "name": "مناسبتك علينا",
+    "subtitle": "تنظيم وتنسيق المناسبات في جبلة",
+    "city": "اللاذقية-جبلة",
+
+    "logo": "assets/images/app/logo.png",
+    "coverImage": "assets/images/app/cover.jpg",
+
+    "phone": "+963 933 210 196",
+    "whatsapp": "+963 933 210 196",
+
+    "address": "جبلة - سوريا",
+    "workingHours": "يومياً من 10 صباحاً حتى 9 مساءً",
+
+    "description": "مكتب متخصص بتنسيق وتنظيم المناسبات والحفلات من الفكرة حتى التنفيذ.",
+
+    "welcomeTitle": "خلّي مناسبتك علينا 🎉",
+    "welcomeDescription": "من أول فكرة حتى آخر تفصيل، نساعدك في اختيار وتنسيق كل ما تحتاجه لمناسبتك.",
+
+    "heroEmoji": "🎉",
+    "heroImage": "assets/images/app/hero.jpg"
+  },
+
+  "categories": [
+    {
+      "id": "weddings",
+      "name": "أعراس",
+      "emoji": "💍",
+      "description": "تنظيم وتنسيق حفلات الزفاف",
+      "icon": "favorite",
+      "image": "assets/images/categories/weddings.jpg"
+    },
+    {
+      "id": "engagement",
+      "name": "خطوبة",
+      "emoji": "💍",
+      "description": "تنسيق حفلات الخطوبة",
+      "icon": "favorite_border",
+      "image": "assets/images/categories/engagement.jpg"
+    },
+    {
+      "id": "graduation",
+      "name": "حفلات تخرج",
+      "emoji": "🎓",
+      "description": "حفلات التخرج والنجاح",
+      "icon": "school",
+      "image": "assets/images/categories/graduation.jpg"
+    },
+    {
+      "id": "birthday",
+      "name": "أعياد ميلاد",
+      "emoji": "🎂",
+      "description": "أعياد ميلاد للكبار والأطفال",
+      "icon": "cake",
+      "image": "assets/images/categories/birthday.jpg"
+    },
+    {
+      "id": "newborn",
+      "name": "استقبال مولود",
+      "emoji": "👶",
+      "description": "تنظيم استقبال المولود الجديد",
+      "icon": "child_friendly",
+      "image": "assets/images/categories/newborn.jpg"
+    },
+    {
+      "id": "kids",
+      "name": "حفلات أطفال",
+      "emoji": "🧸",
+      "description": "حفلات أطفال وشخصيات كرتونية",
+      "icon": "toys",
+      "image": "assets/images/categories/kids.jpg"
+    },
+    {
+      "id": "surprise",
+      "name": "مفاجآت",
+      "emoji": "🎁",
+      "description": "مفاجآت واحتفالات خاصة",
+      "icon": "card_giftcard",
+      "image": "assets/images/categories/surprise.jpg"
+    },
+    {
+      "id": "anniversary",
+      "name": "ذكرى زواج",
+      "emoji": "❤️",
+      "description": "تنسيق ذكريات الزواج والمناسبات الخاصة",
+      "icon": "favorite",
+      "image": "assets/images/categories/anniversary.jpg"
+    },
+    {
+      "id": "baby_shower",
+      "name": "Baby Shower",
+      "emoji": "🍼",
+      "description": "حفلات استقبال قبل الولادة",
+      "icon": "child_friendly",
+      "image": "assets/images/categories/baby_shower.jpg"
+    },
+    {
+      "id": "corporate",
+      "name": "شركات وافتتاحات",
+      "emoji": "🏢",
+      "description": "افتتاح محلات وشركات وفعاليات",
+      "icon": "business",
+      "image": "assets/images/categories/corporate.jpg"
+    },
+    {
+      "id": "home",
+      "name": "مناسبات منزلية",
+      "emoji": "🏠",
+      "description": "تنسيق المناسبات داخل المنزل",
+      "icon": "home",
+      "image": "assets/images/categories/home.jpg"
+    },
+    {
+      "id": "general",
+      "name": "مناسبات أخرى",
+      "emoji": "✨",
+      "description": "أي مناسبة خاصة أخرى",
+      "icon": "celebration",
+      "image": "assets/images/categories/general.jpg"
+    }
+  ],
+
+  "services": [
+    {
+      "id": "decor",
+      "name": "ديكور وتنسيق",
+      "emoji": "🎨",
+      "category": "decoration",
+      "description": "تنسيق كامل للمكان حسب المناسبة.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/decor.jpg"
+    },
+    {
+      "id": "balloons",
+      "name": "بالونات",
+      "emoji": "🎈",
+      "category": "decoration",
+      "description": "أقواس بالونات، جدران بالونات وتنسيقات خاصة.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/balloons.jpg"
+    },
+    {
+      "id": "flowers",
+      "name": "ورد طبيعي وصناعي",
+      "emoji": "🌹",
+      "category": "flowers",
+      "description": "بوكيهات وتنسيقات ورد.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/flowers.jpg"
+    },
+    {
+      "id": "tables",
+      "name": "طاولات وضيافة",
+      "emoji": "🍽️",
+      "category": "decoration",
+      "description": "تنسيق طاولات الطعام والحلويات.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/tables.jpg"
+    },
+    {
+      "id": "cake",
+      "name": "كيك",
+      "emoji": "🎂",
+      "category": "food",
+      "description": "كيك حسب التصميم والمناسبة.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/cake.jpg"
+    },
+    {
+      "id": "desserts",
+      "name": "حلويات",
+      "emoji": "🍬",
+      "category": "food",
+      "description": "حلويات وتشكيلات ضيافة.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/desserts.jpg"
+    },
+    {
+      "id": "coffee",
+      "name": "ضيافة وقهوة",
+      "emoji": "☕",
+      "category": "food",
+      "description": "قهوة ومشروبات وضيافة.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/coffee.jpg"
+    },
+    {
+      "id": "photography",
+      "name": "تصوير فوتوغرافي",
+      "emoji": "📸",
+      "category": "media",
+      "description": "تصوير كامل للمناسبة.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/photography.jpg"
+    },
+    {
+      "id": "video",
+      "name": "تصوير فيديو",
+      "emoji": "🎥",
+      "category": "media",
+      "description": "تصوير فيديو وتوثيق المناسبة.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/video.jpg"
+    },
+    {
+      "id": "sound",
+      "name": "صوت وموسيقى",
+      "emoji": "🔊",
+      "category": "music",
+      "description": "تجهيز صوتي وموسيقي.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/sound.jpg"
+    },
+    {
+      "id": "dj",
+      "name": "DJ",
+      "emoji": "🎧",
+      "category": "music",
+      "description": "DJ للمناسبات والحفلات.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/dj.jpg"
+    },
+    {
+      "id": "invitations",
+      "name": "دعوات",
+      "emoji": "💌",
+      "category": "printing",
+      "description": "دعوات ورقية أو إلكترونية.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/invitations.jpg"
+    },
+    {
+      "id": "gifts",
+      "name": "هدايا",
+      "emoji": "🎁",
+      "category": "gifts",
+      "description": "هدايا وتغليف وتنسيق.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/gifts.jpg"
+    },
+    {
+      "id": "giveaways",
+      "name": "توزيعات",
+      "emoji": "🎀",
+      "category": "gifts",
+      "description": "توزيعات للضيوف.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/giveaways.jpg"
+    },
+    {
+      "id": "characters",
+      "name": "شخصيات كرتونية",
+      "emoji": "🧸",
+      "category": "kids",
+      "description": "شخصيات للحفلات وأعياد الميلاد.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/characters.jpg"
+    },
+    {
+      "id": "venue",
+      "name": "تأمين مكان الحفل",
+      "emoji": "🏛️",
+      "category": "venue",
+      "description": "المساعدة في اختيار وتأمين المكان.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/venue.jpg"
+    },
+    {
+      "id": "transport",
+      "name": "نقل وتجهيز",
+      "emoji": "🚚",
+      "category": "logistics",
+      "description": "نقل الديكور والمستلزمات.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/transport.jpg"
+    },
+    {
+      "id": "full_management",
+      "name": "إدارة المناسبة بالكامل",
+      "emoji": "👑",
+      "category": "management",
+      "description": "إدارة وتنسيق المناسبة من البداية حتى النهاية.",
+      "priceType": "custom",
+      "price": 0,
+      "image": "assets/images/services/full_management.jpg"
+    }
+  ],
+
+  "packages": [
+    {
+      "id": "graduation_basic",
+      "categoryId": "graduation",
+      "name": "باقة التخرج الأساسية",
+      "emoji": "🎓",
+      "description": "تنسيق بسيط وأنيق لحفلة التخرج.",
+      "price": 0,
+      "priceLabel": "السعر حسب التفاصيل",
+      "image": "assets/images/packages/graduation_basic.jpg",
+      "services": [
+        "decor",
+        "balloons",
+        "cake"
+      ]
+    },
+    {
+      "id": "graduation_premium",
+      "categoryId": "graduation",
+      "name": "باقة التخرج Premium",
+      "emoji": "🏆",
+      "description": "باقة متكاملة لحفلات التخرج.",
+      "price": 0,
+      "priceLabel": "عرض سعر خاص",
+      "image": "assets/images/packages/graduation_premium.jpg",
+      "services": [
+        "decor",
+        "balloons",
+        "flowers",
+        "cake",
+        "photography",
+        "video",
+        "gifts"
+      ]
+    },
+    {
+      "id": "birthday_basic",
+      "categoryId": "birthday",
+      "name": "عيد ميلاد Basic",
+      "emoji": "🎂",
+      "description": "ديكور وبالونات وكيك.",
+      "price": 0,
+      "priceLabel": "السعر حسب التصميم",
+      "image": "assets/images/packages/birthday_basic.jpg",
+      "services": [
+        "decor",
+        "balloons",
+        "cake"
+      ]
+    },
+    {
+      "id": "birthday_full",
+      "categoryId": "birthday",
+      "name": "عيد ميلاد متكامل",
+      "emoji": "🎉",
+      "description": "حفلة عيد ميلاد متكاملة.",
+      "price": 0,
+      "priceLabel": "عرض سعر خاص",
+      "image": "assets/images/packages/birthday_full.jpg",
+      "services": [
+        "decor",
+        "balloons",
+        "cake",
+        "desserts",
+        "photography",
+        "characters",
+        "gifts"
+      ]
+    },
+    {
+      "id": "newborn",
+      "categoryId": "newborn",
+      "name": "باقة استقبال مولود",
+      "emoji": "👶",
+      "description": "تنسيق استقبال المولود الجديد.",
+      "price": 0,
+      "priceLabel": "السعر حسب الطلب",
+      "image": "assets/images/packages/newborn.jpg",
+      "services": [
+        "decor",
+        "balloons",
+        "flowers",
+        "cake",
+        "desserts",
+        "gifts",
+        "giveaways"
+      ]
+    },
+    {
+      "id": "engagement",
+      "categoryId": "engagement",
+      "name": "باقة الخطوبة",
+      "emoji": "💍",
+      "description": "تنسيق خطوبة أنيق ومتكامل.",
+      "price": 0,
+      "priceLabel": "عرض سعر مخصص",
+      "image": "assets/images/packages/engagement.jpg",
+      "services": [
+        "decor",
+        "flowers",
+        "balloons",
+        "cake",
+        "photography"
+      ]
+    },
+    {
+      "id": "wedding",
+      "categoryId": "weddings",
+      "name": "باقة الزفاف المتكاملة",
+      "emoji": "👰",
+      "description": "إدارة وتنظيم حفل الزفاف.",
+      "price": 0,
+      "priceLabel": "عرض سعر مخصص",
+      "image": "assets/images/packages/wedding.jpg",
+      "services": [
+        "full_management",
+        "venue",
+        "decor",
+        "flowers",
+        "tables",
+        "cake",
+        "desserts",
+        "photography",
+        "video",
+        "sound",
+        "dj",
+        "invitations"
+      ]
+    },
+    {
+      "id": "surprise",
+      "categoryId": "surprise",
+      "name": "باقة المفاجأة",
+      "emoji": "🎁",
+      "description": "مناسبة صغيرة ومفاجأة مميزة.",
+      "price": 0,
+      "priceLabel": "حسب الطلب",
+      "image": "assets/images/packages/surprise.jpg",
+      "services": [
+        "decor",
+        "balloons",
+        "flowers",
+        "cake",
+        "gifts",
+        "photography"
+      ]
+    },
+    {
+      "id": "corporate",
+      "categoryId": "corporate",
+      "name": "باقة الشركات والافتتاح",
+      "emoji": "🏢",
+      "description": "تنظيم افتتاح أو فعالية تجارية.",
+      "price": 0,
+      "priceLabel": "عرض سعر للشركات",
+      "image": "assets/images/packages/corporate.jpg",
+      "services": [
+        "full_management",
+        "decor",
+        "flowers",
+        "sound",
+        "photography",
+        "video",
+        "invitations"
+      ]
+    }
+  ],
+
+  "settings": {
+    "currency": "ل.س",
+    "showPrices": false,
+    "allowCustomRequest": true,
+    "allowNotes": true,
+    "allowGuestCount": true,
+    "allowBudget": true,
+    "allowDate": true,
+    "allowLocation": true,
+    "allowPhone": true,
+
+    "defaultImage": "assets/images/app/default.jpg",
+
+    "theme": {
+      "style": "modern",
+      "direction": "rtl",
+      "useEmojis": true,
+      "roundedCards": true,
+      "showImages": true,
+      "animations": true
+    }
+  }
+}
